@@ -12,7 +12,8 @@ h1{color:red;}
 
 <h1>persitence 坚持</h1>
 
-FBF意味着为更好的未来奋斗 是一种价值观  全称为 for better future
+FBF意味着为更好的未来奋斗 是一种价值观  全称为
+for better future
 
 这三个字母意味着坚持 有决心 有信心 创造属于自己的美好未来
 
